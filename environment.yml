@@ -1,0 +1,9 @@
+name: demand-forecasting
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - streamlit
+  - xgboost
+prefix: /home/birgit/miniconda3/envs/demand-forecasting
